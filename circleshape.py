@@ -1,7 +1,6 @@
 import pygame
 
-PLAYER_RADIUS = 20
-LINE_WIDTH = 2
+
 
 
 # Base class for game objects
